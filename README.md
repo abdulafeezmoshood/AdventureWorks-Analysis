@@ -17,8 +17,8 @@ Analysis
 
 ### Dasboards 
 
-([Executive Summary-Storytelling.pptx](https://github.com/AbdulAfeez001/AdventureWorks-Analysis/files/11361833/Executive.Summary-Storytelling.pptx)
- )
+[Executive Summary-Storytelling.pptx](https://github.com/AbdulAfeez001/AdventureWorks-Analysis/files/11361833/Executive.Summary-Storytelling.pptx)
+ 
  
  [Product Detail-Storytelling.pptx](https://github.com/AbdulAfeez001/AdventureWorks-Analysis/files/11361835/Product.Detail-Storytelling.pptx)
 
