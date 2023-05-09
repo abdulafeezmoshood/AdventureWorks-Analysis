@@ -27,6 +27,9 @@ Build up a Data model for the store transactions by Orders by Category Name, Mon
 
 This is a Data Model building using DAX and Query language from multiple datasets to create realitionship of the transactions made in the company overtime by using different parameters like orders, age, gender, income level, years, quarters, months, weeks, days and so on.
 
+This is a start schema model if 2 fact tables and 6 Dimensional tables. The relationships was formed out of necessity for the tables to speak with each other to ease the building of the visuals and writing of the dax functions. 
+![](model.jpg)
+
 
 ### Analysis and Visualization 
 
