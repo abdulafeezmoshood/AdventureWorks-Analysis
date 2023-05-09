@@ -1,7 +1,18 @@
 # AdventureWorks-Analysis
-This is an analysis of a retail company showing diverse insights on the customers behaviors by regions, sales and continent and the profit margin of the products. 
+This is an analysis of a retail company showing diverse insights on the customers behaviors by regions, sales and continent and the profit margin of the products.
 
-### Power Query & DAX 
+_Disclaimer:_ This is a demo data for practicing the retail analysis.
+
+### Skill Concepts 
+
+- Modelling,
+- Filters, 
+- Quick Measures, 
+- Page Navigation,
+- Tooltips,
+- Bookmarking,
+- Button,
+- DAX
 
 ### Case Study 
 
@@ -15,7 +26,7 @@ Build up a Data model for the store transactions by Orders by Category Name, Mon
 ETL
 Analysis 
 
-### Dasboards 
+### Dasboards and Analysis
 
 [Executive Summary-Storytelling.pptx](https://github.com/AbdulAfeez001/AdventureWorks-Analysis/files/11361833/Executive.Summary-Storytelling.pptx)
  
