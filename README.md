@@ -16,8 +16,9 @@ _Disclaimer:_ This is a demo data for practicing the retail analysis.
 - Button,
 - DAX
 ### Data Source 
-The source for the data is shown below: 
 
+The source for the data is shown below: 
+![Data_Source](https://github.com/abdulafeezmoshood/AdventureWorks-Analysis/assets/97398702/d1251478-8fdb-4c47-b1c4-b21c5310f75d)
 
 ### Business Tasks 
 
