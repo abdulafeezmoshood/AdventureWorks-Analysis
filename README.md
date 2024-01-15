@@ -21,8 +21,6 @@ _Disclaimer:_ This is a demo data for practicing the retail analysis.
 
 Build up a Data model for the store transactions by Orders by Category Name, Monthly Orders, Monthly Returns, Monthly Revenues, Weekly target, Top customers and so on.
 
-### Data Sourcing 
-
 ### Data Modelling 
 
 This is a Data Model building using DAX and Query language from multiple datasets to create realitionship of the transactions made in the company overtime by using different parameters like orders, age, gender, income level, years, quarters, months, weeks, days and so on.
