@@ -15,6 +15,8 @@ _Disclaimer:_ This is a demo data for practicing the retail analysis.
 - Bookmarking,
 - Button,
 - DAX
+### Data Source 
+The source for the data is shown below: 
 
 
 ### Business Tasks 
