@@ -53,6 +53,8 @@ This is a start schema model if 2 fact tables and 6 Dimensional tables. The rela
 
 ### Dasboards
 
+Interactive dashboards: https://app.powerbi.com/view?r=eyJrIjoiOTU0MjViNzUtZTRhYS00YjNlLTg1ZTMtNjBhNTU1ZTYxYTBkIiwidCI6IjAyODJjM2QzLTc5YjQtNDM3Zi1hOTVjLTg5OGYyNWE5YWYzMyIsImMiOjN9
+
 [Executive Summary-Storytelling.pptx](https://github.com/AbdulAfeez001/AdventureWorks-Analysis/files/11361833/Executive.Summary-Storytelling.pptx)
  
  
